@@ -1,0 +1,17 @@
+{
+    "Fungal infection": {
+      "description": "A fungal infection is a skin disease caused by a fungus.",
+      "precautions": ["Use antifungal cream", "Keep area clean", "Wear dry clothes", "Avoid heat"],
+      "medications": ["itraconazole", "fluconazole"],
+      "diet": ["high-fiber foods", "less sugar", "hydration", "probiotics"],
+      "workout": ["light walking", "yoga"]
+    },
+    "Allergy": {
+      "description": "An allergy is a reaction by your immune system to something not harmful.",
+      "precautions": ["Avoid allergens", "Use air filter", "Wear mask", "Clean surroundings"],
+      "medications": ["antihistamines", "decongestants"],
+      "diet": ["low histamine", "vitamin C rich foods"],
+      "workout": ["light indoor exercise"]
+    }
+  }
+  
